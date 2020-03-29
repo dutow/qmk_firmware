@@ -20,3 +20,4 @@
 #    define NO_PRINT
 #endif
 
+#define ONESHOT_TIMEOUT 2000
